@@ -1,5 +1,5 @@
-<div align="left">
 # ESP32Wrover_Chargeable_Wifi_Cam
+<div align="left">
 - Created with KiCad
 - Voltage regulator: Converts 5V to 3.3V for the microcontroller (MCU) and other voltage regulators for the camera
 - MCU: ESP32-WROVER-E N8R8
