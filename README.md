@@ -16,3 +16,7 @@ Layout:
 <img width="533" alt="3D-Modell" src="https://github.com/user-attachments/assets/ca92c51b-bc89-4b7b-8ad6-16673ecaaddb">
 3D-Model
 <img width="764" alt="Fusion360_" src="https://github.com/user-attachments/assets/52326151-019a-4011-a9a5-53a2017076ad">
+
+![test](https://github.com/user-attachments/assets/8abe7786-bceb-46af-83d1-4189572992fe)
+
+![wifi_cam](https://github.com/user-attachments/assets/3d743299-3b89-4d07-88dd-3db0546f36eb)
