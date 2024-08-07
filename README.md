@@ -1,11 +1,17 @@
 # ESP32Wrover_Chargeable_Wifi_Cam
 <div align="left">
 - Created with KiCad
+  
 - Voltage regulator: Converts 5V to 3.3V for the microcontroller (MCU) and other voltage regulators for the camera
+  
 - MCU: ESP32-WROVER-E N8R8
-- USB-C: For programming the microcontroller and charging the batteries 
+  
+- USB-C: For programming the microcontroller and charging the batteries
+  
 - Camera connection: For the 2MP OV2640 camera
+  
 - Automatic programming circuit: Allows programming without manual reset.
+  
 -  2 x 18560 Akkus
 
 Schematic:
